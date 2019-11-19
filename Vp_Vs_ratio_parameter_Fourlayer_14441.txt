@@ -1,0 +1,10 @@
+INPUT_Vp_Vs_ratio_38.txt
+OUTPUT_Poisson_ratio_38.txt
+WEIGHT_Vp_Vs_ratio_Fourlayers_14441.txt
+1
+38
+4
+4 4 4
+1
+2 2 2 1
+500 1 1.0E-7 2 3
